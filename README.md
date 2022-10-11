@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 10 из 149)
+Путь RubyRush (пройдено 12 из 149)
 
 01. Как проходить этот курс
 02. Главное задание курса Ruby Rush
@@ -16,6 +16,8 @@ repository for Ruby Rush course
     http://ruby.qkspace.com/
 10. Вывести большее из чисел
 11. Среднее арифметическое двух чисел
+12. Четное ли число?
+
 
 
 
