@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 8 из 149)
+Путь RubyRush (пройдено 9 из 149)
 
 01. Как проходить этот курс
 02. Главное задание курса Ruby Rush
@@ -12,6 +12,9 @@ repository for Ruby Rush course
 06. Пишем Волшебный шар
 07. Волшебный шар с приветом
 08. Волшебный шар с рандомным приветом
+09. Объекты, переменные, условный оператор IF
+    http://ruby.qkspace.com/
+
 
 
 
