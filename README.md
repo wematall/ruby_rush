@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 9 из 149)
+Путь RubyRush (пройдено 10 из 149)
 
 01. Как проходить этот курс
 02. Главное задание курса Ruby Rush
@@ -14,6 +14,8 @@ repository for Ruby Rush course
 08. Волшебный шар с рандомным приветом
 09. Объекты, переменные, условный оператор IF
     http://ruby.qkspace.com/
+10. Вывести большее из чисел
+
 
 
 
