@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 13 из 149)
+Путь RubyRush (пройдено 15 из 149)
 
 01. Как проходить этот курс
 02. Главное задание курса Ruby Rush
@@ -19,6 +19,7 @@ repository for Ruby Rush course
 12. Четное ли число?
 13. Сегодня выходной?
 14. Просто монетка
+15. Непростая монетка
 
 
 
