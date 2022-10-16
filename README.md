@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 27 из 149)
+Путь RubyRush (пройдено 28 из 149)
 
 01. Как проходить этот курс
 02. Главное задание курса Ruby Rush
@@ -32,6 +32,8 @@ repository for Ruby Rush course
 25. Выбор машины из массива
 26. Камень - Ножницы - Бумага
 27. Циклы в Ruby
+28. Массив из N элементов и сумма
+
 
 
 
