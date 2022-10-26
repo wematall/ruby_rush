@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 33 из 149)
+Путь RubyRush (пройдено 35 из 149)
 
 01. Как проходить этот курс
 02. Главное задание курса Ruby Rush
@@ -40,6 +40,7 @@ repository for Ruby Rush course
 33. Поют ли соловьи?
 34. Методы в Ruby
 35. Площадь круга
+35. Отрезать N элементов от массива
 
 
 
