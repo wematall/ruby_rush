@@ -39,6 +39,7 @@ repository for Ruby Rush course
 32. ARGV и игрушка-тест
 33. Поют ли соловьи?
 34. Методы в Ruby
+35. Площадь круга
 
 
 
