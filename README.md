@@ -40,7 +40,8 @@ repository for Ruby Rush course
 33. Поют ли соловьи?
 34. Методы в Ruby
 35. Площадь круга
-35. Отрезать N элементов от массива
+36. Отрезать N элементов от массива
+37. Shooting for the stars
 
 
 
