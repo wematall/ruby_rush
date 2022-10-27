@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 35 из 149)
+Путь RubyRush (пройдено 38 из 149)
 
 01. Как проходить этот курс
 02. Главное задание курса Ruby Rush
@@ -42,6 +42,7 @@ repository for Ruby Rush course
 35. Площадь круга
 36. Отрезать N элементов от массива
 37. Shooting for the stars
+38. Угадай число от 0 до 16 с методами
 
 
 
