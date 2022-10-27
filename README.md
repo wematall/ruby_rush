@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 39 из 149)
+Путь RubyRush (пройдено 40 из 149)
 
 01. Как проходить этот курс
 02. Главное задание курса Ruby Rush
@@ -44,6 +44,7 @@ repository for Ruby Rush course
 37. Shooting for the stars
 38. Угадай число от 0 до 16 с методами
 39. Ошибка в склоняторе
+40. Еще одна ошибка!
 
 
 
