@@ -31,11 +31,32 @@ def check_result(user_input, letters, good_letters, bad_letters)
 	if (good_letters.include?(user_input) || bad_letters.include?(user_input))
 		return 0
 	end
+# проверяем слово на наличие буквы от пользователя
+	if letters.include?(user_input) ||
+	   (user_input == "е" && letters.include?("ё")) ||
+	   (user_input == "ё" && letters.include?("е")) || 
+	   (user_input == "и" && letters.include?("й")) ||
+	   (user_input == "й" && letters.include?("и"))
+		 good_letters << user_input
 
-	if (letters.include?(user_input))
-		good_letters << user_input
+		if user_input == 'е'
+      good_letters << 'ё'
+    end
 
-		if letters.uniq.size == good_letters.size
+    if user_input == 'ё'
+      good_letters << 'е'
+    end
+
+    if user_input == 'и'
+      good_letters << 'й'
+    end
+
+    if user_input == 'й'
+      good_letters << 'и'
+    end
+
+
+		if (letters - good_letters).empty?
 			return 1
 		else
 			return 0
@@ -75,7 +96,7 @@ def print_status(letters, good_letters, bad_letters,errors)
 	if errors >= 7
 		puts "Вы проиграли :("
 	else
-		if (letters.uniq.size == good_letters.size)
+		if (letters - good_letters).empty?
 			puts "Поздравляем! Вы выиграли!\n\n"
 		else
 			puts "У вас осталось попыток: " + (7-errors).to_s
