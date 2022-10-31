@@ -1,7 +1,11 @@
 # ruby_rush
 repository for Ruby Rush course
 
+
 Путь RubyRush (пройдено 46 из 149)
+=======
+Путь RubyRush (пройдено 46 из 149)
+
 
 01. Как проходить этот курс
 02. Главное задание курса Ruby Rush
@@ -51,6 +55,7 @@ repository for Ruby Rush course
 44. Классы и объекты в Ruby
 45. Хамелеон
 46. Человек с именем и фамилией
+
 
 
 
