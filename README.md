@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 43 из 149)
+Путь RubyRush (пройдено 44 из 149)
 
 01. Как проходить этот курс
 02. Главное задание курса Ruby Rush
@@ -48,6 +48,7 @@ repository for Ruby Rush course
 41. Первая версия "Виселицы"
 42. Посещение городов
 43. Виселица Е и Ё / И и Й
+44. Классы и объекты в Ruby
 
 
 
