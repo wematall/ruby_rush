@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 47 из 149)
+Путь RubyRush (пройдено 48 из 149)
 
 
 01. Как проходить этот курс
@@ -53,6 +53,7 @@ repository for Ruby Rush course
 45. Хамелеон
 46. Человек с именем и фамилией
 47. Человек в возрасте
+48. Бодибилдеры
 
 
 
