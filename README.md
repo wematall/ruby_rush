@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 49 из 149)
+Путь RubyRush (пройдено 50 из 149)
 
 
 01. Как проходить этот курс
@@ -55,6 +55,7 @@ repository for Ruby Rush course
 47. Человек в возрасте
 48. Бодибилдеры
 49. Объектная «Виселица» v.2
+50. Герои и злодеи
 
 
 
