@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 52 из 149)
+Путь RubyRush (пройдено 53 из 149)
 
 
 01. Как проходить этот курс
@@ -58,6 +58,8 @@ repository for Ruby Rush course
 50. Герои и злодеи
 51. Фильмы с режиссерами
 52. Люди и фильмы
+53. Чтение файлов в Ruby
+
 
 
 
