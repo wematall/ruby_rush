@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 60 из 149)
+Путь RubyRush (пройдено 61 из 149)
 
 
 01. Как проходить этот курс
@@ -66,6 +66,7 @@ repository for Ruby Rush course
 58. Выбрать фильм на вечер
 59. Фильм на вечер с описанием
 60. Библиотеки и RubyGems (send_mail)
+61. Математические константы
 
 
 
