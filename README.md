@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 64 из 149)
+Путь RubyRush (пройдено 65 из 149)
 
 
 01. Как проходить этот курс
@@ -71,8 +71,7 @@ repository for Ruby Rush course
 63. Отправка почты с темой
 64. Запись файлов в Ruby
 https://ru.wikibooks.org/wiki/Ruby/
-для начинающих
-https://ru.wikibooks.org/wiki/Ruby/%D0%94%D0%BB%D1%8F_%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85
+65. Hello, file!
 
 
 
