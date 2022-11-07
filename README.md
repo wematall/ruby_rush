@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 57 из 149)
+Путь RubyRush (пройдено 58 из 149)
 
 
 01. Как проходить этот курс
@@ -63,6 +63,8 @@ repository for Ruby Rush course
 55. Генератор рожиц
 56. Викторина
 57. Третья версия "Виселицы"
+58. Выбрать фильм на вечер
+
 
 
 
