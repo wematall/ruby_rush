@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 62 из 149)
+Путь RubyRush (пройдено 63 из 149)
 
 
 01. Как проходить этот курс
@@ -68,6 +68,8 @@ repository for Ruby Rush course
 60. Библиотеки и RubyGems (send_mail)
 61. Математические константы
 62. Транслитератор
+63. Отправка почты с темой
+
 
 
 
