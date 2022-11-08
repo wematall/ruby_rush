@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 68 из 149)
+Путь RubyRush (пройдено 69 из 149)
 
 
 01. Как проходить этот курс
@@ -75,6 +75,7 @@ https://ru.wikibooks.org/wiki/Ruby/
 66. Рожи в файл!
 67. Сегодня выходной? (с праздниками)
 68. Интерактивная консоль Ruby, palindrom v.1
+69. Палиндром с пробелами (v.2)
 
 
 
