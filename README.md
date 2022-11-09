@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 71 из 149)
+Путь RubyRush (пройдено 72 из 149)
 
 
 01. Как проходить этот курс
@@ -78,6 +78,7 @@ https://ru.wikibooks.org/wiki/Ruby/
 69. Палиндром с пробелами (v.2)
 70. Регулярные выражения в Ruby (игра угадай слово)
 71. Проверяем email
+72. Ищем в строке хэштеги
 
 
 
