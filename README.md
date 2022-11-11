@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 73 из 149)
+Путь RubyRush (пройдено 74 из 149)
 
 
 01. Как проходить этот курс
@@ -80,6 +80,7 @@ https://ru.wikibooks.org/wiki/Ruby/
 71. Проверяем email
 72. Ищем в строке хэштеги
 73. На три веселых буквы...
+74. Ошибки и исключения
 
 
 
