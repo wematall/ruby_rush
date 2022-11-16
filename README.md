@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 77 из 149)
+Путь RubyRush (пройдено 78 из 149)
 
 
 01. Как проходить этот курс
@@ -88,6 +88,7 @@ https://ru.wikibooks.org/wiki/Ruby/
 79. Система контроля версий Git 
 80. Монетка в git
 81. Коммит и отмена
+82. Вращение кубиков
 
 
 
