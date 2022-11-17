@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 80 из 149)
+Путь RubyRush (пройдено 81 из 149)
 
 
 01. Как проходить этот курс
@@ -91,6 +91,7 @@ https://ru.wikibooks.org/wiki/Ruby/
 82. Вращение кубиков
 83. Сумма чисел на кубиках
 84. Распределенный репозиторий GitHub (pick a card)
+85. Карта из колоды в github
 
 
 
