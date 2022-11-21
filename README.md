@@ -1,7 +1,7 @@
 # ruby_rush
 repository for Ruby Rush course
 
-Путь RubyRush (пройдено 83 из 149)
+Путь RubyRush (пройдено 84 из 149)
 
 
 01. Как проходить этот курс
@@ -94,6 +94,7 @@ https://ru.wikibooks.org/wiki/Ruby/
 85. Карта из колоды в github
 86. Символы мастей
 87. Шифрование MD5, SHA1
+88. Устройство памяти компьютера
 
 
 
