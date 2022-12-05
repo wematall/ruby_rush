@@ -1,0 +1,5 @@
+create a new github repository 'notepad'
+write a first version notepad application
+
+сделал репозиторий
+закоммитил версию 1 блокнота
